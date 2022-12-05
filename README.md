@@ -1,2 +1,2 @@
-# Fastqc-
+# Fastqc
 quality control tool
